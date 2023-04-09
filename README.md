@@ -1,5 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/85190228/230776985-d097fd65-172f-47ab-a613-e666c930a200.gif)
+![MasterHead](https://user-images.githubusercontent.com/85190228/230777850-0d7b4605-0f7a-4755-81e6-b7fc497340b5.gif)
 <h1 align="center">Hi 👋, I'm Mamta</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 <img align="right" alt="Coding" width="600" src="https://user-images.githubusercontent.com/85190228/230772542-d120c6a3-9e9b-4de2-b72f-c7c1b554e71b.gif">
 
 <p align="left"> <a href="https://twitter.com/mamta18567" target="blank"><img src="https://img.shields.io/twitter/follow/mamta18567?logo=twitter&style=for-the-badge" alt="mamta18567" /></a> </p>
