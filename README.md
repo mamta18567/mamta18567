@@ -1,4 +1,4 @@
-
+![MasterHead](https://user-images.githubusercontent.com/85190228/230776985-d097fd65-172f-47ab-a613-e666c930a200.gif)
 <h1 align="center">Hi 👋, I'm Mamta</h1>
 <img align="right" alt="Coding" width="600" src="https://user-images.githubusercontent.com/85190228/230772542-d120c6a3-9e9b-4de2-b72f-c7c1b554e71b.gif">
 
